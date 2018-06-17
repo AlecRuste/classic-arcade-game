@@ -10,6 +10,12 @@ Download ZIP file or clone it from this repository and simply open "index.html" 
 ## How to play
 Press arrow keys to move your character.
 
+## TODO
+* Implement point system
+* Add collectible items
+* Add more playable characters
+
+
 ## Author
 The game was made by Algirdas Rusteika based on the art assets and game engine provided by Udacity.
 
@@ -20,6 +26,6 @@ It is not possible to contribute to this project.
 Web browser with support for Javascript ES6.
 
 ## Technologies
-HTML
-CSS
-Javascript ES6
+* HTML
+* CSS
+* Javascript ES6
